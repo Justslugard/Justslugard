@@ -1,2 +1,1 @@
-# The
-Profile Description
+Beginner developer in its journey
